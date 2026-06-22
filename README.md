@@ -1,10 +1,10 @@
 IDX SDE Summer 2026
 
-Overview
+🚀 Overview
 
 The objective of this project is to build a Zillow/Redfin-style property search application backed by real MLS data. The application includes a React frontend, a Node.js/Express REST API, and a MySQL database running in Docker.
 
-Technical Stack
+🛠️ Technical Stack
 
 Frontend
 
@@ -34,7 +34,7 @@ Testing
 * React Testing Library
 * Supertest
 
-Project Goals
+🎯Project Goals
 
 * Build RESTful APIs for property data retrieval
 * Connect React applications to backend services
@@ -42,15 +42,6 @@ Project Goals
 * Implement property search and filtering functionality
 * Apply software engineering best practices for version control and collaborative development
 
-Data Sources
-
-The project utilizes MLS-style real estate listing data stored in MySQL databases, including:
-
-* Property listings
-* Property details
-* Open house information
-* Geographic and location data
-
-Status
+🔄Status
 
 This repository is actively being developed as part of the IDX Exchange Software Engineering Internship Program.
