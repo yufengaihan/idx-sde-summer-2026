@@ -18,7 +18,6 @@ The objective of this project is to build a Zillow/Redfin-style property search 
 
 | Testing | Jest, React Testing Library, Supertest |
 
-
 🎯Project Goals
 
 * Build RESTful APIs for property data retrieval
