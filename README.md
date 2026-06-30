@@ -2,7 +2,7 @@
 
 The objective of this project is to build a Zillow/Redfin-style property search application backed by real MLS data. The application includes a React frontend, a Node.js/Express REST API, and a MySQL database running in Docker.
 
-🛠️ Technical Stack
+##🛠️ Technical Stack
 
 | Category | Technologies |
 
